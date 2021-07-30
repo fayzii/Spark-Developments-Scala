@@ -31,7 +31,7 @@ object SparkConf {
     /* While Bucketing no. of files will be df partitions * buckets
     *  In my case i have 1 df partition i set it to 2 using repartition
     *  No. of files will be no. of buckets * df partitions
-    *  e.g. 2 * 2 = 4 per partition which is Region
+    *  e.g. 2 * 2 = 4 per partition which is Region okok
     * */
 
     transformedDF.
