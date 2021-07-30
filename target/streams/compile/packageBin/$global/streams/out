@@ -1,0 +1,17 @@
+[info] Packaging C:\Users\Muhammad-Fayyaz\IdeaProjects\Spark Developments\target\scala-2.11\spark-developments_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	SampleRegexQuestions$.class
+[debug] 	  C:\Users\Muhammad-Fayyaz\IdeaProjects\Spark Developments\target\scala-2.11\classes\SampleRegexQuestions$.class
+[debug] 	SampleRegexQuestions$$typecreator1$1.class
+[debug] 	  C:\Users\Muhammad-Fayyaz\IdeaProjects\Spark Developments\target\scala-2.11\classes\SampleRegexQuestions$$typecreator1$1.class
+[debug] 	SparkComplexDTypes$.class
+[debug] 	  C:\Users\Muhammad-Fayyaz\IdeaProjects\Spark Developments\target\scala-2.11\classes\SparkComplexDTypes$.class
+[debug] 	SparkConf.class
+[debug] 	  C:\Users\Muhammad-Fayyaz\IdeaProjects\Spark Developments\target\scala-2.11\classes\SparkConf.class
+[debug] 	SampleRegexQuestions.class
+[debug] 	  C:\Users\Muhammad-Fayyaz\IdeaProjects\Spark Developments\target\scala-2.11\classes\SampleRegexQuestions.class
+[debug] 	SparkComplexDTypes.class
+[debug] 	  C:\Users\Muhammad-Fayyaz\IdeaProjects\Spark Developments\target\scala-2.11\classes\SparkComplexDTypes.class
+[debug] 	SparkConf$.class
+[debug] 	  C:\Users\Muhammad-Fayyaz\IdeaProjects\Spark Developments\target\scala-2.11\classes\SparkConf$.class
+[info] Done packaging.
